@@ -23,3 +23,31 @@ p {
 a {
     color: #800080;
 }
+/* ------------------------------
+   Module 8 CSS Effects
+------------------------------ */
+
+/* Rounded corners */
+header {
+    border-radius: 12px;
+}
+
+img {
+    border-radius: 12px;
+}
+
+/* Shadow effect */
+header {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+}
+
+/* Gradient background */
+body {
+    background: linear-gradient(to bottom, #ffffff, #eaf4ea);
+}
+
+/* Small positioning effect */
+img {
+    position: relative;
+    top: 10px;
+}
