@@ -103,3 +103,11 @@ nav a:focus {
 .info-card h2 {
     color: #2f5d7c;
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
+iframe {
+    max-width: 100%;
+}
+/* Module 10 Responsive Styles */
